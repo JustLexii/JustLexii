@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JustLexii
 - 👀 I’m interested in expending my knowledge
 - 🌱 I’m currently learning Html and CSS
-- 💞️ I’m looking to collaborate on nothing yet🙃
+- 💞️ I’m looking to collaborate soon🙃
 - 📫 How to reach me ... Here
 
 <!---
